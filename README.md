@@ -34,7 +34,6 @@ numpy
 pandas
 pyproj
 pulp
-glpk
 ```
 
 ## **References**
