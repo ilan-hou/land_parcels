@@ -37,10 +37,8 @@ pulp
 glpk
 ```
 
-## **References & Notes**
+## **References**
 - **Geospatial Processing:** [GeoPandas Documentation](https://geopandas.org/)
 - **Linear Programming:** [PuLP Documentation](https://coin-or.github.io/pulp/)
 - **GLPK Solver:** [GNU Linear Programming Kit](https://www.gnu.org/software/glpk/)
-
-This project demonstrates how **mathematical optimization** can be applied to **geospatial decision-making**, balancing environmental and financial constraints for sustainable land management.
 
